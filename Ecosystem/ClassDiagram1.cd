@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ecosystem.Aquarium">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGFAIAGYTAIAgBBAIEABEAEADgDAkRAALAAgKAoAA=</HashCode>
+      <FileName>Aquarium.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ecosystem.Cell">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAEICAQAAAIEAgAAAAAAAACAAAAAUAAIAAAAAIA=</HashCode>
+      <FileName>Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ecosystem.Checker">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Checker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ecosystem.Fish">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gUgAAIAQEQAYAAABpAFAYFAxIABQkBAAAQEAIyEACAg=</HashCode>
+      <FileName>Fish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ecosystem.FishHerbious">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACIAAAAEIIAIIAUAKQABAADAAAAAAAAAAEAAAAAAQA=</HashCode>
+      <FileName>FishHerbious.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ecosystem.FishPredator">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAAAAAEIICIIAEAAQABAABAAAAAAAAAAEAAAAAAQA=</HashCode>
+      <FileName>FishPredator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ecosystem.Herb">
+    <Position X="7.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAFAABAIAAgIAAQAAAAAAAAAgEAAAQ=</HashCode>
+      <FileName>Herb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ecosystem.Program">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ecosystem.QuantityInputer">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAAAAAAAAAACAAAAAACAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>QuantityInputer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ecosystem.Stone">
+    <Position X="13.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAFAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Stone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Ecosystem.Death">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAIAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Ecosystem.OperationChoiceHerbious">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAQAAAAAAAAACAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Ecosystem.OperationChoicePredator">
+    <Position X="11.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
